@@ -1,0 +1,27 @@
+.wrap {
+  margin: 0 auto;
+  margin-top: -20px;
+  width: 940px;
+  overflow: hidden;
+}
+.lists {
+  margin-right: -20px;
+}
+.listitem {
+  float: left;
+  width: 300px;
+  min-height: 1px;
+  margin-right: 20px;
+}
+.contentwrap {
+  margin-top: 20px;
+}
+.imgwrap img {
+  display: block;
+  width: 100%;
+  /*height: 300px;*/
+}
+.para {
+  padding: 10px;
+  background-color: #f0f0f0;
+}
